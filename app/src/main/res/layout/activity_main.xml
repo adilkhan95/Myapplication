@@ -19,7 +19,7 @@
         android:layout_below="@+id/text"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="79dp"
-        android:textColor="#5423ff"
+        android:textColor="#ff3b31"
         android:textSize="50dp"
         android:textIsSelectable="false" />
 
